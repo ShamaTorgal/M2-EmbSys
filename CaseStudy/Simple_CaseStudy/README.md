@@ -35,15 +35,17 @@ The LM7805 monolithic 3-terminal positive voltage regulators employ internal cur
 | HR03 | It Should measure Soil pH level| 
 | HR04 |It Should Display information regarding temp, soil moisture, pH level.|
 	
-Low Level Requirements
-ID	                                           Description                       -   Status
-LH01	Whenever Soil moisture probes are put into soil -  Display moisture level
-LH02	Temperature sensor                                                  -  Display Atmospheric and soil temp.  
+* Low Level Requirements
+| ID |                                           Description                       |   Status |
+| --- | --- | --- |
+| LH01 | Whenever Soil moisture probes are put into soil |  Display moisture level
+| LH02 | Temperature sensor                                                  | Display Atmospheric and soil temp |
 
-Test case
-Test ID	Description	Exp Output
-T01	Power ON	Display Welcome in LCD
-T02	Soil moisture sensor probes are kept in soil	Display Moisture level of the sample soil
+## Test case
+| Test ID |	Description |	Exp Output |
+| --- | --- | --- |
+| T01 | Power ON | Display Welcome in LCD |
+| T02 | Soil moisture sensor probes are kept in soil	| Display Moisture level of the sample soil | 
 
 
 
