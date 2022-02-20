@@ -9,6 +9,8 @@
 
 ## Block Diagram
    The Block diagram Contains A Controller, Soil moisture sensor, Temp sensor and LCD Display.
+   
+  
    ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/CaseStudy/Simple_CaseStudy/Soil_moisture_meter.png)
 
 
