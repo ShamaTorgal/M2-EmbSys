@@ -27,3 +27,14 @@
  | LR03| 	If the user wants to decrement or increment the data press key “3” and “4”|
 |LR04|	User may download the attendance data by pressing and holding key 4. |
 
+## 4 W's and 1 H
+### Who
+* The user who wants to mark attendance.
+### What
+* To mark attendance using finger print system.
+### When
+* Whenever the user want to know about the perticular day/date/note/months and whenever used wants to add notes.
+### Where
+* Recording Data, Security.
+### How
+* By using the Biometric Attendance system and entering the key.
