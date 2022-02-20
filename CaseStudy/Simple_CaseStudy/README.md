@@ -27,3 +27,30 @@ Soil moisture sensor module is used to detect the moisture of the soil. It measu
 3.	Temperature Sensor
 Temperature Sensors are crucial in two key categories of smart agriculture — ambient condition monitoring and mechanical asset monitoring. Ice wine harvesting, for example, is known to occur within the narrow temperature window when ambient temperatures first reach between -10°C and -12°C during a harvesting season.
 4.	LCD Display
+
+## Requirements
+
+* High Level Requirements 
+|ID|	Description|
+| --- | --- |
+|HR01	|It should measure soil moisture content accurately and precisely|
+|HR02	|It Should be able to sense the Atmospheric and Soil Temperature|
+|HR03	|It Should measure Soil pH level|
+|HR04	|It Should Display information regarding temp, soil moisture, pH level|
+	
+* Low Level Requirements
+| --- | --- | --- |
+|ID	  |                                         Description |                      |  Status|
+|LH01	|Whenever Soil moisture probes are put into soil -  Display moisture level
+|LH02	|Temperature sensor                                                  |  Display Atmospheric and soil temp.  |
+
+## Test case
+
+|Test ID |	Description	Exp Output|
+| --- | --- |
+|T01|	Power ON	Display Welcome in LCD|
+|T02	|Soil moisture sensor probes are kept in soil	Display Moisture level of the sample soil|
+
+
+
+
