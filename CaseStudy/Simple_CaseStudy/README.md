@@ -24,3 +24,22 @@ RTC modules are simply TIME and DATE remembering systems which have battery setu
 4.	LM7805
 The LM7805 monolithic 3-terminal positive voltage regulators employ internal current-limiting, thermal shutdown and safe-area compensation, making them essentially indestructible. If adequate heat sinking is provided, they can deliver over 1.0A output current. 
 5.	Push Button, Resisters, buzzer etc.
+## Requirements
+
+* High Level Requirements 
+
+| ID | Description |
+| --- | --- |
+| HR01 | It should be able to take input from the user |
+| HR02 | It should efficiently detect any finger print|
+|  HR03 |It should be able to do functions like Enroll, Detect, Increment and Decrement finger-print data.|
+|  HR04| It should display information whenever a finger print is detected, and buzzer should beep once.|
+
+* Low Level Requirements
+| ID	| Description |
+| --- | --- |
+| LR01 |If the user wants to Enroll press key “1”|
+| LR02 |	If the user wants to reset or delete data from EEPROM press key “2” |
+| LR03 | If the user wants to decrement or increment the data press key “3” and “4”|
+| LR04 |User may download the attendance data by pressing and holding key 4. |
+
