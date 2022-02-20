@@ -37,9 +37,9 @@ Temperature Sensors are crucial in two key categories of smart agriculture — a
 | HR04 |It Should Display information regarding temp, soil moisture, pH level.|
 	
 * Low Level Requirements
-| ID |                                           Description                       |   Status |
+| ID |       Description                       |   Status |
 | --- | --- | --- |
-| LH01 | Whenever Soil moisture probes are put into soil |  Display moisture level
+| LH01 | Whenever Soil moisture probes are put into soil |  Display moisture level |
 | LH02 | Temperature sensor                                                  | Display Atmospheric and soil temp |
 
 ## Test case
