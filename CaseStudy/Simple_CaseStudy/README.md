@@ -9,6 +9,7 @@
 
 ## Block Diagram
    The Block diagram Contains A Controller, Soil moisture sensor, Temp sensor and LCD Display.
+   ![Block Diagram](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/0_Certificates/1_sololearn_cert-1089-24871283.jpg)
 
 
 Here the Fingerprint Sensor module is used to authenticate a person or employee’s identity by taking their finger-print input in the system. There are 4 push buttons to enroll, Delete, Increment and Decrement finger-print data. Fingerprint sensor module captures finger’s print image and then converts it into the equivalent template and saves them into its memory as per selected ID by microcontroller. It has Atmega32 microcontroller for controlling all the process of the project.
