@@ -11,7 +11,7 @@
    The Block diagram Contains A Controller, Soil moisture sensor, Temp sensor and LCD Display.
    
   
-   ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/CaseStudy/Simple_CaseStudy/Soil_moisture_meter.png)
+   ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/CaseStudy/Simple_Embedded_System/Soil_moisture_meter.png)
 
 
 The digital soil moisture meter circuit is for monitoring the soil moisture content in irrigation farms, is an electronic device that measures soil moisture content accurately and precisely.
