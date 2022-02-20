@@ -28,18 +28,22 @@ The LM7805 monolithic 3-terminal positive voltage regulators employ internal cur
 
 * High Level Requirements 
 
-| ID | Description |
+| ID |	Description |
 | --- | --- |
-| HR01 | It should be able to take input from the user |
-| HR02 | It should efficiently detect any finger print|
-|  HR03 |It should be able to do functions like Enroll, Detect, Increment and Decrement finger-print data.|
-|  HR04| It should display information whenever a finger print is detected, and buzzer should beep once.|
+| HR01 |	It should measure soil moisture content accurately and precisely|
+| HR02 |	It Should be able to sense the Atmospheric and Soil Temperature|
+| HR03 | It Should measure Soil pH level| 
+| HR04 |It Should Display information regarding temp, soil moisture, pH level.|
+	
+Low Level Requirements
+ID	                                           Description                       -   Status
+LH01	Whenever Soil moisture probes are put into soil -  Display moisture level
+LH02	Temperature sensor                                                  -  Display Atmospheric and soil temp.  
 
-* Low Level Requirements
-| ID	| Description |
-| --- | --- |
-| LR01 |If the user wants to Enroll press key “1”|
-| LR02 |	If the user wants to reset or delete data from EEPROM press key “2” |
-| LR03 | If the user wants to decrement or increment the data press key “3” and “4”|
-| LR04 |User may download the attendance data by pressing and holding key 4. |
+Test case
+Test ID	Description	Exp Output
+T01	Power ON	Display Welcome in LCD
+T02	Soil moisture sensor probes are kept in soil	Display Moisture level of the sample soil
+
+
 
