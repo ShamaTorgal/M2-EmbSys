@@ -41,7 +41,7 @@ Temperature Sensors are crucial in two key categories of smart agriculture — a
 	
 * Low Level Requirements
 
-|ID	  |                                         Description |                      |  Status|
+|ID	  |                                         Description |                        Status|
 
 | --- | --- | --- |
 |LH01	|Whenever Soil moisture probes are put into soil |  Display moisture level|
