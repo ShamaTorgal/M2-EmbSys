@@ -46,6 +46,9 @@ The LM7805 monolithic 3-terminal positive voltage regulators employ internal cur
 |LR04|	User may download the attendance data by pressing and holding key 4. |
 
 
+## Applications
+* Trustworthy Data recording
+* Security Applications
 
 
                                                      
