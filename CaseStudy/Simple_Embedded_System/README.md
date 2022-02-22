@@ -54,5 +54,8 @@ Temperature Sensors are crucial in two key categories of smart agriculture — a
 |T02	|Soil moisture sensor probes are kept in soil	Display Moisture level of the sample soil|
 
 
-
+## Applications
+* Used in Agriculture.
+* Landscape irrigation
+* Simple sensors for gardeners
 
