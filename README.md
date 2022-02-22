@@ -3,5 +3,4 @@
 * 1- Soil Moisture Meter
 * 2 – Biometric Attendance System based on Finger Print
 
-## Project 
-Biometric Attendance System based on Finger Print
+
