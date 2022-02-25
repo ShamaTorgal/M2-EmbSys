@@ -1,4 +1,4 @@
-# Case Study 1- Soil Moisture Meter
+Soil Moisture Meter
 ## Description
 
 *	This Soil Moisture Meter is used for indicating the moisture content of a given soil sample.
