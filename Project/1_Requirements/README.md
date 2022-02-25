@@ -29,10 +29,10 @@
 
 ## Test case
 
-|Test ID |	Description	Exp Output|
+|Test ID |	Description	| Exp Output|
 | --- | --- |
-|T01|	Power ON	Display Welcome in LCD|
-|T02	|Soil moisture sensor probes are kept in soil	Display Moisture level of the sample soil|
+|T01|	Power ON	| Display Welcome in LCD|
+|T02	|Soil moisture sensor probes are kept in soil|	Display Moisture level of the sample soil|
 
 
 ## Applications
