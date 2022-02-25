@@ -9,7 +9,7 @@
         2.1 Flow chart
      
      
-## Structural Design
+## 1. Structural Design
 
   ### Block Diagram
 
@@ -46,6 +46,6 @@ The button is used as a user input. It is used when the user wants to supply the
 5.	LCD Display
 LCD is used to Display the Moisture conditions of the soil.
 
-## Behavioural Design
+## 2. Behavioural Design
 
 ### Flow Chart
