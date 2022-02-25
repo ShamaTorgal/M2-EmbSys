@@ -14,9 +14,9 @@
   ### Block Diagram
   
  The Block diagram Contains a Controller, Potentiometer (instead of Soil moisture sensor), Temperature sensor, motor and LCD Display.
- In Soil moisture sensor a electrical current is sent from one probe to the other, which allows the sensor to measure the resistance of the soil between them.
-When the water content in the soil is high, it has a higher electrical conductivity (water is a good conductor of electricity). Hence, a lower resistance reading is obtained which indicates high soil moisture. 
-When the water content in the soil is low, it has poorer electrical conductivity. Hence, a higher resistance reading is obtained, which indicates low soil moisture.
+* In Soil moisture sensor a electrical current is sent from one probe to the other, which allows the sensor to measure the resistance of the soil between them.
+* When the water content in the soil is high, it has a higher electrical conductivity (water is a good conductor of electricity). Hence, a lower resistance reading is obtained which indicates high soil moisture. 
+* When the water content in the soil is low, it has poorer electrical conductivity. Hence, a higher resistance reading is obtained, which indicates low soil moisture.
   
   
    ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/2_Architecture/Block%20Diagram.png)
