@@ -1,14 +1,14 @@
 # Soil Moisture Meter
 
 ###  Table of content
-   Description
-   Requirements
+    Description
+    Requirements
          1. High Level Requirements 
          2. Low Level Requirements
-    > Test case
-    > Applications
-    > 4 W's and 1 H
-    > SWOT Analysis
+     Test case
+     Applications
+     4 W's and 1 H
+    * SWOT Analysis
     
     
 ## Description
