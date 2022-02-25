@@ -1,10 +1,12 @@
 # Architecture 
 ####  Table of content
+
     Strctural Design
-        Block Diagram
-        Components details
+        -> Block Diagram
+        -> Components details
+        
     Behavioural Design
-        Flow chart
+        -> Flow chart
      
      
 ## Structural 
