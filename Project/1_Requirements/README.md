@@ -1,6 +1,6 @@
 # Soil Moisture Meter
 
-###  Table of content
+####  Table of content
     Description
     Requirements
          1. High Level Requirements 
@@ -57,9 +57,9 @@
 * The Agricutural platforms, farmers, irrigation platform.
 #### What
 * To get infomation regarding soil moisture level.
-### When
+#### When
 * Whenever there is any necessity to check the soil moisture while irrigation.
-### Where
+#### Where
 * Agriculture, irrigtion, gardening.
-### How
+#### How
 * By using the Soil moisture meter and putting the probes of sensor in the sample soil.
