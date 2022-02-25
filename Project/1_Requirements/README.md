@@ -54,12 +54,12 @@
 
 ## 4 W's and 1 H
 ### Who
-* The user who wants to access Calendar.
+* The Agricutural platforms, farmers, irrigation platform.
 ### What
-* To get infomation regarding months or day or years.
+* To get infomation regarding soil moisture level.
 ### When
-* Whenever the user want to know about the perticular day/date/note/months and whenever used wants to add notes.
+* Whenever there is any necessity to check the soil moisture while irrigation.
 ### Where
-* Daily life.
+* Agriculture, irrigtion, gardening.
 ### How
-* By using the Calendar application and entering the key.
+* By using the Soil moisture meter and putting the probes of sensor in the sample soil.
