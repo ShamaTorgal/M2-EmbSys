@@ -29,8 +29,8 @@
 | --- | --- |
 |HR01	|It should measure soil moisture content accurately and precisely|
 |HR02	|It Should be able to sense the Atmospheric and Soil Temperature|
-|HR03	|It Should measure Soil pH level|
-|HR04	|It Should Display information regarding temp, soil moisture, pH level|
+|HR03	|It Should Display information regarding temp, soil moisture|
+|HR04	|It Should Display information regarding temp, soil moisture|
 	
 * Low Level Requirements
 
