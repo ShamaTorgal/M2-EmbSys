@@ -1,10 +1,10 @@
 # Soil Moisture Meter
 
-## Table of content
-  ###  Description
-  ### Requirements
-     ## High Level Requirements 
-     ## Low Level Requirements
+###  Table of content
+    Description
+    Requirements
+    High Level Requirements 
+     Low Level Requirements
 
 ## Description
 
