@@ -12,7 +12,7 @@
     
     
 ## Description
-
+*       Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.
 *	This Soil Moisture Meter is used for indicating the moisture content of a given soil sample.
 *	In Agriculture, crop production will be easier when the farmer monitors the requirement of water at different stages and in different amounts. 
 *	Time to time measurement of soil moisture is important.
@@ -49,8 +49,10 @@
 
 ## Applications
 * Used in Agriculture.
-* Landscape irrigation
-* Simple sensors for gardeners
+* Landscape irrigation.
+* Household Gardening.
+* Research and Forecasting.
+* Irrigation for Sporting Fields.
 
 ## 4 W's and 1 H
 #### Who
