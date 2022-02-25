@@ -53,9 +53,9 @@
 * Simple sensors for gardeners
 
 ## 4 W's and 1 H
-### Who
+#### Who
 * The Agricutural platforms, farmers, irrigation platform.
-### What
+#### What
 * To get infomation regarding soil moisture level.
 ### When
 * Whenever there is any necessity to check the soil moisture while irrigation.
