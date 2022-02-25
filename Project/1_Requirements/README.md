@@ -1,11 +1,16 @@
 # Soil Moisture Meter
 
 ###  Table of content
-    Description
-    Requirements
-    High Level Requirements 
-     Low Level Requirements
-
+    > Description
+    > Requirements
+         1. High Level Requirements 
+         2. Low Level Requirements
+    > Test case
+    > Applications
+    > 4 W's and 1 H
+    > SWOT Analysis
+    
+    
 ## Description
 
 *	This Soil Moisture Meter is used for indicating the moisture content of a given soil sample.
@@ -46,3 +51,15 @@
 * Used in Agriculture.
 * Landscape irrigation
 * Simple sensors for gardeners
+
+## 4 W's and 1 H
+### Who
+* The user who wants to access Calendar.
+### What
+* To get infomation regarding months or day or years.
+### When
+* Whenever the user want to know about the perticular day/date/note/months and whenever used wants to add notes.
+### Where
+* Daily life.
+### How
+* By using the Calendar application and entering the key.
