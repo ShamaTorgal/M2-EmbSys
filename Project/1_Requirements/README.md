@@ -24,15 +24,15 @@
 
 |ID |           Description |          Status|
 | --- | --- | --- |
-|LH01	| Whenever Soil moisture probes are put into soil |  Display moisture level|
+|LH01	| Whenever Soil moisture probes are put into soil |  Display moisture level |
 |LH02	| Temperature sensor                 |  Display Atmospheric and soil temp.  |
 
 ## Test case
 
 |Test ID |	Description	| Exp Output|
-| --- | --- |
+| --- | --- | --- |
 |T01|	Power ON	| Display Welcome in LCD|
-|T02	|Soil moisture sensor probes are kept in soil|	Display Moisture level of the sample soil|
+|T02	|Soil moisture sensor probes are kept in soil |	Display Moisture level of the sample soil|
 
 
 ## Applications
