@@ -8,7 +8,7 @@
      Test case
      Applications
      4 W's and 1 H
-    * SWOT Analysis
+     SWOT Analysis
     
     
 ## Description
