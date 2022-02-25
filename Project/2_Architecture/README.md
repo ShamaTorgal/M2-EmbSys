@@ -39,7 +39,7 @@ Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digita
 3.	Temperature Sensor
 Temperature Sensors are crucial in two key categories of smart agriculture — ambient condition monitoring and mechanical asset monitoring. Ice wine harvesting, for example, is known to occur within the narrow temperature window when ambient temperatures first reach between -10°C and -12°C during a harvesting season.
 
-4.User Interface - Button
+4. User Interface - Button
 The button is used as a user input. It is used when the user wants to supply the water irrespective of soil moisture condition. 
 
 5.	LCD Display
