@@ -5,10 +5,9 @@
     2. Requirements
          1.1 High Level Requirements 
          1.2 Low Level Requirements
-    3. Test case
-    4. Applications
-    5. 4 W's and 1 H
-    6. SWOT Analysis
+    3. Applications
+    4. 4 W's and 1 H
+    5. SWOT Analysis
     
     
 ## Description
@@ -42,18 +41,6 @@
 |LH03 |If High resistance in potentiometer is detedted ( water content in the soil is less)| Display Low Moisture - Dry |
 |LH04| If low moisture is detected | Motor ON condition |
 |LH05 |If low resistance in potentiometer is detedted  ( water content in the soil is more)| Display high Moisture - wet  |
-
-
-## Test case
-
-|Test ID |	Description	| Exp Output|
-| --- | --- | --- |
-|T01|	Power ON	| Display Welcome in LCD|
-|LH03 |High Resistance | Display Low Moisture - Dry |
-|LH04| Low moisture detected  | Motor ON condition |
-|LH05 |ow resistance  | Display high Moisture - wet  |
-
-
 
 
 ## Applications
