@@ -49,7 +49,11 @@
 |Test ID |	Description	| Exp Output|
 | --- | --- | --- |
 |T01|	Power ON	| Display Welcome in LCD|
-|T02	|Soil moisture sensor probes are kept in soil |	Display Moisture level of the sample soil|
+|LH03 |High Resistance | Display Low Moisture - Dry |
+|LH04| Low moisture detected  | Motor ON condition |
+|LH05 |ow resistance  | Display high Moisture - wet  |
+
+
 
 
 ## Applications
