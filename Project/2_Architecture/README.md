@@ -9,7 +9,8 @@
         -> Flow chart
      
      
-## Structural 
+## Structural Design
+
   ### Block Diagram
 
    The Block diagram Contains a Controller, Potentiometer (instead of Soil moisture sensor), Temperature sensor, motor and LCD Display.
@@ -43,3 +44,7 @@ The button is used as a user input. It is used when the user wants to supply the
 
 5.	LCD Display
 LCD is used to Display the Moisture conditions of the soil.
+
+## Behavioural Design
+
+### Flow Chart
