@@ -34,13 +34,13 @@
 	
 * Low Level Requirements
 
-|ID |           Description |          Status|
-| --- | --- | --- |
-|LH01	| Whenever Soil moisture probes are put into soil |  Display moisture level |
-|LH02	| Temperature sensor                 |  Display Atmospheric and soil temp.  |
-|LH03 |If High resistance in potentiometer is detedted ( water content in the soil is less)| Display Low Moisture - Dry |
-|LH04| If low moisture is detected | Motor ON condition |
-|LH05 |If low resistance in potentiometer is detedted  ( water content in the soil is more)| Display high Moisture - wet  |
+|ID |           Description |        
+| --- | --- | 
+|LH01	| Whenever Soil moisture probes are put into soil -  Display moisture level |
+|LH02	| Temperature sensor is ON - Display Atmospheric and soil temp.  |
+|LH03 |If High resistance in potentiometer is detedted ( water content in the soil is less) -  Display Low Moisture - Dry |
+|LH04| If low moisture is detected - Motor ON condition |
+|LH05 |If low resistance in potentiometer is detedted  ( water content in the soil is more) - Display high Moisture - wet  |
 
 
 ## Applications
