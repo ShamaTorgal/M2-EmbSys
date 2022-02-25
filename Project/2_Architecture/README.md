@@ -1,5 +1,5 @@
 # Architecture 
-####  Table of content
+### Table of content
 
     1. Strctural Design
         1.1 Block Diagram
