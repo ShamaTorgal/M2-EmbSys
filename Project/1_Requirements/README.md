@@ -29,8 +29,9 @@
 | --- | --- |
 |HR01	|It should measure soil moisture content accurately and precisely|
 |HR02	|It Should be able to sense the Atmospheric and Soil Temperature|
-|HR03	|It Should Display information regarding temp, soil moisture|
-|HR04	|It Should Display information regarding temp, soil moisture|
+|HR03	|It Should Display information regarding temp, soil moisture in LCD|
+|HR04	|It Should be able to take input from user when the manual water supply is needed|
+|HR05   | It should start supplying water whenever less moisture is detected| 
 	
 * Low Level Requirements
 
@@ -38,6 +39,10 @@
 | --- | --- | --- |
 |LH01	| Whenever Soil moisture probes are put into soil |  Display moisture level |
 |LH02	| Temperature sensor                 |  Display Atmospheric and soil temp.  |
+|LH03 |If High resistance in potentiometer is detedted ( water content in the soil is less)| Display Low Moisture - Dry |
+|LH04| If low moisture is detected | Motor ON condition |
+|LH05 |If low resistance in potentiometer is detedted  ( water content in the soil is more)| Display high Moisture - wet |
+
 
 ## Test case
 
