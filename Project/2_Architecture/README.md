@@ -11,7 +11,7 @@
      
 ## 1. Structural Design
 
-  ### Block Diagram
+  ### 1.1 Block Diagram
   
  The Block diagram Contains a Controller, Potentiometer (instead of Soil moisture sensor), Temperature sensor, motor and LCD Display.
 * In Soil moisture sensor a electrical current is sent from one probe to the other, which allows the sensor to measure the resistance of the soil between them. Here Potentiometer is used as a Soil moisture sensor. 
@@ -29,7 +29,7 @@
    
  
 
-### Components Details
+### 1.2 Components Details
 
 1.	Controller: 
 Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
@@ -51,6 +51,6 @@ LCD is used to Display the Moisture conditions of the soil.
 
 ## 2. Behavioural Design
 
-### Flow Chart
+### 2.1 Flow Chart
 
   ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/2_Architecture/flowChart.png )
