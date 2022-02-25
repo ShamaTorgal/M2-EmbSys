@@ -26,11 +26,11 @@
 
 |ID|	Description|
 | --- | --- |
-|HR01	|It should measure soil moisture content accurately and precisely|
-|HR02	|It Should be able to sense the Atmospheric and Soil Temperature|
-|HR03	|It Should Display information regarding temp, soil moisture in LCD|
-|HR04	|It Should be able to take input from user when the manual water supply is needed|
-|HR05   | It should start supplying water whenever less moisture is detected| 
+|HR01	|It shall measure soil moisture content accurately and precisely|
+|HR02	|It Shall be able to sense the Atmospheric and Soil Temperature|
+|HR03	|It Shall Display information regarding temp, soil moisture in LCD|
+|HR04	|It Shall be able to take input from user when the manual water supply is needed|
+|HR05   | It shall start supplying water whenever less moisture is detected| 
 	
 * Low Level Requirements
 
