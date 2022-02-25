@@ -2,7 +2,7 @@
 ####  Table of content
 
     1. Strctural Design
-        1.1 Image.1 - Block Diagram
+        1.1 Block Diagram
         1.2 Components details
         
     2. Behavioural Design
