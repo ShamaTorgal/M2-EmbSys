@@ -52,3 +52,5 @@ LCD is used to Display the Moisture conditions of the soil.
 ## 2. Behavioural Design
 
 ### Flow Chart
+
+  ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/2_Architecture/flowChart.png )
