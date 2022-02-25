@@ -32,8 +32,8 @@ Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digita
 
 
 2.	Soil moisture Sensor - Potentiometer
-   * Soil moisture sensor module is used to detect the moisture of the soil. It measures the volumetric content of water inside the soil and gives us the moisture level as output. The module has both digital and analog outputs and a potentiometer to adjust the threshold level.
-   * Soil moisture sensor uses the resistive working principle, which makes it susceptible to corrosion over time. 
+   Soil moisture sensor module is used to detect the moisture of the soil. It measures the volumetric content of water inside the soil and gives us the moisture level as output. The module has both digital and analog outputs and a potentiometer to adjust the threshold level.
+   Soil moisture sensor uses the resistive working principle, which makes it susceptible to corrosion over time. 
    
 
 3.	Temperature Sensor
