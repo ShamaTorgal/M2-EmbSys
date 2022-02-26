@@ -23,7 +23,7 @@
 
 ## 2. Requirements
 
-* 2.1 High Level Requirements 
+### 2.1 High Level Requirements 
 
 |ID|	Description|
 | --- | --- |
@@ -33,7 +33,7 @@
 |HR04	|It Shall be able to take input from user when the manual water supply is needed|
 |HR05   | It shall start supplying water whenever less moisture is detected| 
 	
-* 2.2 Low Level Requirements
+### 2.2 Low Level Requirements
 
 |ID |           Description |        
 | --- | --- | 
