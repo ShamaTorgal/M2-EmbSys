@@ -53,7 +53,7 @@ Temperature Sensors are crucial in two key categories of smart agriculture — a
 The button is used as a user input. It is used when the user wants to supply the water irrespective of soil moisture condition. 
 
 #### LCD Display
-LCD is used to Display the Moisture conditions of the soil.
+* LCD is used to Display the Moisture conditions of the soil.
 
 ## 2. Behavioural Design
 
