@@ -51,9 +51,10 @@
 * Research and Forecasting.
 * Irrigation for Sporting Fields.
 
+## 4. SWOT Analysis
+
 ![Swot](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/1_Requirements/Swot%20(2).png)
 
-https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/1_Requirements/Swot%20(2).png
 
 ## 5. 4 W's and 1 H
 #### Who
