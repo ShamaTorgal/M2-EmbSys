@@ -4,6 +4,13 @@
     1. Strctural Design
         1.1 Block Diagram
         1.2 Components details
+             a. Controller
+             b. Sensors
+                - Soil moisture Sensor - Potentiometer
+                - Temperature Sensor
+             c. Actuators - Motor
+             d. GPIO - Button
+             e. LCD Display
         
     2. Behavioural Design
         2.1 Flow chart
