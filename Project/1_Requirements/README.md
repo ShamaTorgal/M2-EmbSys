@@ -6,11 +6,12 @@
          1.1 High Level Requirements 
          1.2 Low Level Requirements
     3. Applications
-    4. 4 W's and 1 H
-    5. SWOT Analysis
+    4. SWOT Analysis
+    5. 4 W's and 1 H
     
     
-## Description
+    
+## 1. Description
 * Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.
 *	This Soil Moisture Meter is used for indicating the moisture content of a given soil sample.
 *	In Agriculture, crop production will be easier when the farmer monitors the requirement of water at different stages and in different amounts. 
@@ -20,9 +21,9 @@
 
 
 
-## Requirements
+## 2. Requirements
 
-* High Level Requirements 
+* 2.1 High Level Requirements 
 
 |ID|	Description|
 | --- | --- |
@@ -32,7 +33,7 @@
 |HR04	|It Shall be able to take input from user when the manual water supply is needed|
 |HR05   | It shall start supplying water whenever less moisture is detected| 
 	
-* Low Level Requirements
+* 2.2 Low Level Requirements
 
 |ID |           Description |        
 | --- | --- | 
@@ -43,14 +44,14 @@
 |LH05 |If low resistance in potentiometer is detedted  ( water content in the soil is more) - Display high Moisture ( wet )  |
 
 
-## Applications
+## 3. Applications
 * Used in Agriculture.
 * Landscape irrigation.
 * Household Gardening.
 * Research and Forecasting.
 * Irrigation for Sporting Fields.
 
-## 4 W's and 1 H
+## 5. 4 W's and 1 H
 #### Who
 * The Agricutural platforms, farmers, irrigation platform.
 #### What
