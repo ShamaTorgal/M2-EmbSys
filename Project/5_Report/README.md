@@ -1,6 +1,6 @@
 # Soil Moisture Meter
 
-####  Table of content
+####  Table of Content
     1. Description
     2. Requirements
          1.1 High Level Requirements 
