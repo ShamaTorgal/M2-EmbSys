@@ -11,13 +11,13 @@
     6. Structural Design
          6.1 Block Diagram
          6.2 Components Details
-	     a. Controller
-             b. Sensors
-                - Soil moisture Sensor ( Potentiometer )
-                - Temperature Sensor
-             c. Actuators - Motor
-             d. GPIO - Button
-             e. LCD Display
+	       a. Controller
+               b. Sensors
+                 - Soil moisture Sensor ( Potentiometer )
+                 - Temperature Sensor
+               c. Actuators - Motor
+               d. GPIO - Button
+               e. LCD Display
     7. Behavioural Design
          7.1 Flow Chart
     
