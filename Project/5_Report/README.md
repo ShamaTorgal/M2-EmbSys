@@ -11,7 +11,6 @@
     6. Structural Design
          6.1 Block Diagram
          6.2 Components Details
-	 
 	       a. Controller
                b. Sensors
                  - Soil moisture Sensor ( Potentiometer )
