@@ -25,7 +25,7 @@
          8.2 File Details 
     9. Test Plan
          9.1   Table 1 - High level test plan
-	 9.2   Table 2 - low level test plan
+	      9.2   Table 2 - low level test plan
     10. Badges
     
     
