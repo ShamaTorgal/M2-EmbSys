@@ -23,6 +23,12 @@
     8. Implementation
          8.1 Instructions to execute
          8.2 File Details 
+    9. Test Plan
+         9.1   Table 1 - High level test plan
+	 9.2   Table 2 - low level test plan
+    10. Badges
+    
+    
 ## 1. Description
 * Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.
 *	This Soil Moisture Meter is used for indicating the moisture content of a given soil sample.
