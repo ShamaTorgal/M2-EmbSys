@@ -12,15 +12,17 @@
          6.1 Block Diagram
          6.2 Components Details
 	       a. Controller
-           b. Sensors
+               b. Sensors
                - Soil moisture Sensor ( Potentiometer )
                - Temperature Sensor
-           c. Actuators - Motor
-           d. GPIO - Button
-           e. LCD Display
+               c. Actuators - Motor
+               d. GPIO - Button
+               e. LCD Display
     7. Behavioural Design
          7.1 Flow Chart
-    
+    8. Implementation
+         8.1 Instructions to execute
+         8.2 File Details 
 ## 1. Description
 * Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.
 *	This Soil Moisture Meter is used for indicating the moisture content of a given soil sample.
@@ -131,3 +133,26 @@ The button is used as a user input. It is used when the user wants to supply the
 
   ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/2_Architecture/flowChart.png )
 
+## 8. Implementation
+
+This folder conatins all the coding files for proper execution of program.
+
+### 8.1 Instructions to execute
+* Clone my repository.
+* Go to 3_Implementation folder.
+* Download the .ino, simulation, .elf and .hex files.
+* Make sure your system meets all software requirements.
+* Open .ino file with Arduino IDE. Turn on compatibility and verify the code.
+* After this we will get a path where we can get .hex and .elf files.
+* Open simulation file with SimulIDE.
+* Right click on the circuit and select load firmware. 
+* To load the firmware select .hex file which was generated.
+* Save the circuit and run. 
+
+### 8.2 File Details : 
+
+| File name | File Extension | Description |
+| --- | --- | --- |
+| soil_moisture_meter | .ino | Main code of the project. ( Open with Arduino IDE )| 
+| soil_moisture_meter.ino | .hex |Hex file that needs to be loaded in Simulation circuit | 
+|soil_moisture_meter_simulation|.simu | this Contains the simulation schematic circuit. ( open with SimulIDE ) |
