@@ -56,7 +56,7 @@ Temperature Sensors are crucial in two key categories of smart agriculture — a
 
 #### GPIO
 
-* User Interface - Button
+* User Interface - Button / switch
 The button is used as a user input. It is used when the user wants to supply the water irrespective of soil moisture condition. 
 
 #### LCD Display
