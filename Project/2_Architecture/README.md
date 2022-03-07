@@ -6,7 +6,7 @@
         1.2 Components details
              a. Controller
              b. Sensors
-                - Soil moisture Sensor - Potentiometer
+                - Soil moisture Sensor (Potentiometer)
                 - Temperature Sensor
              c. Actuators - Motor
              d. GPIO - Button
