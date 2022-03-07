@@ -185,5 +185,5 @@ This folder conatins all the coding files for proper execution of program.
 | H_07 | Display Temperature | Temperature sensor is ON | Display Atmospheric and soil temp | Future |
 
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f7690c764e604e879e0e8729ed12ace3)](https://www.codacy.com/gh/ShamaTorgal/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShamaTorgal/M2-EmbSys&amp;utm_campaign=Badge_Grade)
 
