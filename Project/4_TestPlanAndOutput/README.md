@@ -20,8 +20,8 @@
 | H_02 | If High resistance in potentiometer is detedted |  water content in the soil is less | Display Low Moisture ( Dry ) | Implemented |
 | H_03 | Turn on motor for low moisture level | If low moisture is detected | Motor should be ON  | Implemented |
 | H_04 | If low resistance in potentiometer is detedted | water content in the soil is more | Display high Moisture ( wet ) | Implemented |
-| H_04 | If low resistance in potentiometer is detedted | water content in the soil is more | Motor should be in OFF condition | Implemented |
-| H_05 | Turn ON the motor manually for water supply | button/switch should be pressed | Motor ON | Implemented |
-| H_06 | Display Temperature | Temperature sensor is ON | Display Atmospheric and soil temp | Future |
+| H_05 | If low resistance in potentiometer is detedted | water content in the soil is more | Motor should be in OFF condition | Implemented |
+| H_06 | Turn ON the motor manually for water supply | button/switch should be pressed | Motor ON | Implemented |
+| H_07 | Display Temperature | Temperature sensor is ON | Display Atmospheric and soil temp | Future |
 
 
