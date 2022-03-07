@@ -16,7 +16,7 @@
                - Soil moisture Sensor ( Potentiometer )
                - Temperature Sensor
            c. Actuators - Motor
-           d. GPIO - Button
+           d. GPIO - Button/Switch
            e. LCD Display
     7. Behavioural Design
          7.1 Flow Chart
