@@ -38,11 +38,11 @@
 
 ### 1.2 Components Details
 
-#### Controller: 
+#### a. Controller: 
 Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
 
 
-#### Sensors
+#### b. Sensors
 * Soil moisture Sensor - Potentiometer
    Soil moisture sensor module is used to detect the moisture of the soil. It measures the volumetric content of water inside the soil and gives us the moisture level as output.    The module has both digital and analog outputs and a potentiometer to adjust the threshold level.
    Soil moisture sensor uses the resistive working principle, which makes it susceptible to corrosion over time. 
@@ -51,16 +51,16 @@ Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digita
 * Temperature Sensor
 Temperature Sensors are crucial in two key categories of smart agriculture — ambient condition monitoring and mechanical asset monitoring. Ice wine harvesting, for example, is known to occur within the narrow temperature window when ambient temperatures first reach between -10°C and -12°C during a harvesting season.
 
-#### Actuators
+#### c. Actuators
 * Motor - For supplying water whenever soil moisture is less.
 
-#### GPIO
+#### d. GPIO
 
 * User Interface - Button / switch
 
 The button is used as a user input. It is used when the user wants to supply the water irrespective of soil moisture condition. 
 
-#### LCD Display
+#### e. LCD Display
 * LCD is used to Display the Moisture conditions of the soil.
 
 ## 2. Behavioural Design
