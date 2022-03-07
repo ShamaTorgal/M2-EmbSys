@@ -156,3 +156,30 @@ This folder conatins all the coding files for proper execution of program.
 | soil_moisture_meter | .ino | Main code of the project. ( Open with Arduino IDE )| 
 | soil_moisture_meter.ino | .hex |Hex file that needs to be loaded in Simulation circuit | 
 |soil_moisture_meter_simulation|.simu | this Contains the simulation schematic circuit. ( open with SimulIDE ) |
+
+
+## 9. Test Plan
+
+## 9.1 Table 1 - High level test plan
+
+| Test ID | Description | Exp Input | Exp Output | Status (Implemented/Future) |
+| --- | --- | --- | --- | --- |
+| H_01 | It shall Display Message in LCD | Power ON | Display Welcome in LCD | Implemented |
+| H_02 | It shall measure soil moisture content accurately and precisely | Put sensor probes in soil | Display Status of soil temp. | Implemented |
+| H_03 | It Shall Display information regarding temp, soil moisture in LCD | Power ON  | Display Temp, soil moisture level | Implemented |
+| H_04 | It Shall be able to take input from user when the manual water supply is needed | Use Button / Switch | Turn ON motor | Implemented |
+| H_05 | It shall start supplying water whenever less moisture is detected | Less moisture detected | Turn ON motor | Implemented |
+| H_06 | It Shall be able to sense the Atmospheric and Soil Temperature | Sense the temperature of soil | Display the temperature | Future |
+
+
+## 9.2 Table 2 - low level test plan
+
+| Test ID | Discription | Exp Input | Exp Output | Status (Implemented/Future) |
+| --- | --- | --- | --- | --- |
+| H_01 | Display moisture status | Whenever Soil moisture probes are put into soil |  Display moisture level | Implemented |
+| H_02 | If High resistance in potentiometer is detected |  water content in the soil is less | Display Low Moisture   ( Dry ) | Implemented |
+| H_03 | Turn on motor for low moisture level | If low moisture is detected | Motor should be ON  | Implemented |
+| H_04 | If low resistance in potentiometer is detected | water content in the soil is more | Display high Moisture    ( wet ) | Implemented |
+| H_05 | If low resistance in potentiometer is detected | water content in the soil is more | Motor should be in OFF condition | Implemented |
+| H_06 | Turn ON the motor manually for water supply | button/switch should be pressed | Motor ON | Implemented |
+| H_07 | Display Temperature | Temperature sensor is ON | Display Atmospheric and soil temp | Future |
