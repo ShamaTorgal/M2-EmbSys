@@ -183,3 +183,7 @@ This folder conatins all the coding files for proper execution of program.
 | H_05 | If low resistance in potentiometer is detected | water content in the soil is more | Motor should be in OFF condition | Implemented |
 | H_06 | Turn ON the motor manually for water supply | button/switch should be pressed | Motor ON | Implemented |
 | H_07 | Display Temperature | Temperature sensor is ON | Display Atmospheric and soil temp | Future |
+
+
+
+
