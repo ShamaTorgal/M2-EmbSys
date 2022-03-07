@@ -12,6 +12,6 @@ This folder conatins all the coding files for proper execution of program.
 
 | File name | File Extension | Description |
 | --- | --- | --- |
-| inc | |Contains header files | 
-| src | |Contains additional source file for compilation | 
-| test | |Contains testing files |
+| soil_moisture_meter | .ino | Main code of the project.( Open with Arduino IDE )| 
+| soil_moisture_meter.ino | .hex |Hex file that needs to be loaded in Simulation circuit | 
+|soil_moisture_meter_simulation|.simu | this Contains the simulation schematic circuit. (open with SimulIDE) |
