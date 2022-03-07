@@ -160,7 +160,7 @@ This folder conatins all the coding files for proper execution of program.
 
 ## 9. Test Plan
 
-## 9.1 Table 1 - High level test plan
+### 9.1   Table 1 - High level test plan
 
 | Test ID | Description | Exp Input | Exp Output | Status (Implemented/Future) |
 | --- | --- | --- | --- | --- |
@@ -172,7 +172,7 @@ This folder conatins all the coding files for proper execution of program.
 | H_06 | It Shall be able to sense the Atmospheric and Soil Temperature | Sense the temperature of soil | Display the temperature | Future |
 
 
-## 9.2 Table 2 - low level test plan
+### 9.2   Table 2 - low level test plan
 
 | Test ID | Discription | Exp Input | Exp Output | Status (Implemented/Future) |
 | --- | --- | --- | --- | --- |
