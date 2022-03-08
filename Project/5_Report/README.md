@@ -31,10 +31,10 @@
        -Output in Arduino IDE after verifying code.
        -Schematic Design
        -Displaying 'WELCOME' in LCD after Power-ON.
-       -Less moisture is detected and motor is ON.
-       -Feild is Wet
-       -More moisture is detected and motor is OFF.
-       -Feild is Dry
+       -Low moisture is detected and motor is ON.
+       -Display Feild is Wet
+       -High moisture is detected and motor is OFF.
+       -Display Feild is Dry
     
 ## 1. Description
 * Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.
