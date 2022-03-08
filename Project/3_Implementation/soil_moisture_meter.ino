@@ -5,7 +5,7 @@ int button  = 8,Pump = 9;
 int Moisture_sensor = A0;
 int value , flag = 0;
 void setup() {
-lcd.begin(16,2);//initialize LCD 16X2
+lcd.begin(16,2);                                                      //initialize LCD 16X2
 lcd.setCursor(0,0);
 lcd.print("    WEL-COME    ");
 delay(1000);
