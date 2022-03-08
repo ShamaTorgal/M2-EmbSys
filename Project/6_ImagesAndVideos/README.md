@@ -11,7 +11,7 @@
 
 ![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Display%20welcome.png)  
 
-# If Less moisture is detected and motor is ON.
+# Less moisture is detected and motor is ON.
 
 ![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/low%20moisture%20level.png)  
 
@@ -19,7 +19,7 @@
 
 ![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Feild%20is%20dry.png)  
 
-# If more moisture is detected and motor is OFF.
+# More moisture is detected and motor is OFF.
 
 ![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/high%20moisture%20level.png)  
 
