@@ -1,4 +1,7 @@
 
+
+
+
 # Output in Arduino IDE after verifying code.
 
 ![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Output%20in%20arduino%20IDE.png)  
@@ -26,6 +29,12 @@
 ## Display Feild is Wet
 
 ![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Field%20is%20Wet.png)  
+
+
+
+https://user-images.githubusercontent.com/98867688/157299929-ae978eaf-7b5e-484d-a59f-a2796c6aeabb.mp4
+
+
 
 
 
