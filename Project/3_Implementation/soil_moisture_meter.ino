@@ -17,13 +17,13 @@ digitalWrite(Pump , LOW);                                             // set pum
 void loop() {
   value = analogRead(Moisture_sensor);                               // Read analog value from the sensor(POT)
   float Moisture_level = ( value / 10.23);                           // convert it into percentage 
-  lcd.clear(); // clear LCD
+  lcd.clear();                                                       // clear LCD
   lcd.setCursor(0,0);
   lcd.print("Moisture Level");
   lcd.setCursor(0,1);
   lcd.print(String(Moisture_level) +" %");                          // Display Moisture status on LCD
   delay(1000);
-  // check for field wet 
+                                                                   // check for field wet 
   if(Moisture_level > 75)                                          // if field is wet more then 75 % set flag 
   {
     lcd.clear();
