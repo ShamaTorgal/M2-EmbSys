@@ -28,7 +28,13 @@
          9.1   Table 1 - High level test plan
 	     9.2   Table 2 - low level test plan
     11. Output
-    
+       -Output in Arduino IDE after verifying code.
+       -Schematic Design
+       -Displaying 'WELCOME' in LCD after Power-ON.
+       -Less moisture is detected and motor is ON.
+       -Feild is Wet
+       -More moisture is detected and motor is OFF.
+       -Feild is Dry
     
 ## 1. Description
 * Soil Moisture Sensors also enable us to develop smart agricultural systems that respond to environmental conditions automatically.
