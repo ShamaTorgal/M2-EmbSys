@@ -8,9 +8,10 @@
     3. Applications
     4. SWOT Analysis
     5. 4 W's and 1 H 
-    6. Structural Design
-         6.1 Block Diagram
-         6.2 Components Details
+    6. Badges
+    7. Structural Design
+         7.1 Block Diagram
+         7.2 Components Details
 	       a. Controller
            b. Sensors
                - Soil moisture Sensor ( Potentiometer )
@@ -18,15 +19,15 @@
            c. Actuators - Motor
            d. GPIO - Button/Switch
            e. LCD Display
-    7. Behavioural Design
+    8. Behavioural Design
          7.1 Flow Chart
-    8. Implementation
+    9. Implementation
          8.1 Instructions to execute
          8.2 File Details 
-    9. Test Plan
+    10. Test Plan
          9.1   Table 1 - High level test plan
 	     9.2   Table 2 - low level test plan
-    10. Badges
+    11. Output
     
     
 ## 1. Description
@@ -87,9 +88,14 @@
 * By using the Soil moisture meter and putting the probes of sensor in the sample soil.
 
 
-## 6. Structural Design
+## 6. Badges
 
-  ### 6.1 Block Diagram
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f7690c764e604e879e0e8729ed12ace3)](https://www.codacy.com/gh/ShamaTorgal/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShamaTorgal/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+
+
+## 7. Structural Design
+
+  ### 7.1 Block Diagram
   
  The Block diagram Contains a Controller, Potentiometer (instead of Soil moisture sensor), Temperature sensor, motor and LCD Display.
 * In Soil moisture sensor a electrical current is sent from one probe to the other, which allows the sensor to measure the resistance of the soil between them. Here Potentiometer is used as a Soil moisture sensor. 
@@ -107,7 +113,7 @@
    
  
 
-### 6.2 Components Details
+### 7.2 Components Details
 
 #### Controller: 
 Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
@@ -133,17 +139,17 @@ The button is used as a user input. It is used when the user wants to supply the
 #### LCD Display
 * LCD is used to Display the Moisture conditions of the soil.
 
-## 7. Behavioural Design
+## 8. Behavioural Design
 
-### 7.1 Flow Chart
+### 8.1 Flow Chart
 
   ![Block Diagram](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/2_Architecture/flowChart.png )
 
-## 8. Implementation
+## 9. Implementation
 
 This folder conatins all the coding files for proper execution of program.
 
-### 8.1 Instructions to execute
+### 9.1 Instructions to execute
 * Clone my repository.
 * Go to 3_Implementation folder.
 * Download the .ino, simulation, .elf and .hex files.
@@ -155,7 +161,7 @@ This folder conatins all the coding files for proper execution of program.
 * To load the firmware select .hex file which was generated.
 * Save the circuit and run. 
 
-### 8.2 File Details : 
+### 9.2 File Details : 
 
 | File name | File Extension | Description |
 | --- | --- | --- |
@@ -164,10 +170,10 @@ This folder conatins all the coding files for proper execution of program.
 |soil_moisture_meter_simulation|.simu | this Contains the simulation schematic circuit. ( open with SimulIDE ) |
 
 
-## 9. Test Plan
+## 10. Test Plan
 
 
-### Table 1 - High level test plan
+### 10.1 Table 1 - High level test plan
 
 | Test ID | Description | Exp Input | Exp Output | Status (Implemented/Future) |
 | --- | --- | --- | --- | --- |
@@ -179,7 +185,7 @@ This folder conatins all the coding files for proper execution of program.
 | H_06 | It Shall be able to sense the Atmospheric and Soil Temperature | Sense the temperature of soil | Display the temperature | Future |
 
 
-### Table 2 - low level test plan
+### 10.2 Table 2 - low level test plan
 
 | Test ID | Discription | Exp Input | Exp Output | Status (Implemented/Future) |
 | --- | --- | --- | --- | --- |
@@ -193,7 +199,34 @@ This folder conatins all the coding files for proper execution of program.
 
 
 
-## 10. Badges
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f7690c764e604e879e0e8729ed12ace3)](https://www.codacy.com/gh/ShamaTorgal/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShamaTorgal/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+## 11. Output
+
+### Output in Arduino IDE after verifying code.
+
+![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Output%20in%20arduino%20IDE.png)  
+
+### Schematic Design
+
+![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Schematic.png)  
+
+### Displaying 'WELCOME' in LCD after Power-ON.
+
+![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Display%20welcome.png)  
+
+### Less moisture is detected and motor is ON.
+
+![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/low%20moisture%20level.png)  
+
+### Feild is Wet
+
+![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Feild%20is%20dry.png)  
+
+### More moisture is detected and motor is OFF.
+
+![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/high%20moisture%20level.png)  
+
+### Feild is Dry
+
+![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Field%20is%20wet.png)  
 
