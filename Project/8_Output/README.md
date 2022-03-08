@@ -1,3 +1,6 @@
+# Video of the output
+
+https://user-images.githubusercontent.com/98867688/157300057-da73997f-fcf9-47a0-b258-ca17b0810c4e.mp4
 
 # Output in Arduino IDE after verifying code.
 
@@ -29,6 +32,5 @@
 
 
 
-https://user-images.githubusercontent.com/98867688/157300057-da73997f-fcf9-47a0-b258-ca17b0810c4e.mp4
 
 
