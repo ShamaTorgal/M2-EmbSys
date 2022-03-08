@@ -27,5 +27,9 @@
 
 ![MakeRun](https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Field%20is%20Wet.png)  
 
-![MakeRun] (https://github.com/ShamaTorgal/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/SoilMoistureMeterVideo.mp4)
+
+
+https://user-images.githubusercontent.com/98867688/157297255-cc72e787-4f71-4a75-8f6e-7c4dd4e763f8.mp4
+
+
 
