@@ -5,7 +5,7 @@
 | Test ID | Description | Exp Input | Exp Output | Status (Implemented/Future) |
 | --- | --- | --- | --- | --- |
 | H_01 | It shall Display Message in LCD | Power ON | Display Welcome in LCD | Implemented |
-| H_02 | It shall measure soil moisture content accurately and precisely | Put sensor probes in soil | Display Status of soil temp. | Implemented |
+| H_02 | It shall measure soil moisture content accurately and precisely | Put sensor probes in soil | Display level of soil moisture| Implemented |
 | H_03 | It Shall Display information regarding temp, soil moisture in LCD | Power ON  | Display Temp, soil moisture level | Implemented |
 | H_04 | It Shall be able to take input from user when the manual water supply is needed | Use Button / Switch | Turn ON motor | Implemented |
 | H_05 | It shall start supplying water whenever less moisture is detected | Less moisture detected | Turn ON motor | Implemented |
