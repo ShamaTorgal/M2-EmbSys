@@ -22,6 +22,7 @@
 ##  Badges
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f7690c764e604e879e0e8729ed12ace3)](https://www.codacy.com/gh/ShamaTorgal/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShamaTorgal/M2-EmbSys&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://api.codiga.io/project/31642/score/svg)
+ [![Codacy Badge]([![c.cpp](https://img.shields.io/badge/c.cpp-yes-greem.svg)](https://shields.io/))
 
 
 ##  SWOT Analysis
